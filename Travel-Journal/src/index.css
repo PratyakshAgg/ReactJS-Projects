@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+    font-family: inter, 'sans-serif';
+}
+
+.header{
+    position: absolute;
+    display: flex;
+    background-color: #F55A5A;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 55px;
+    left: 0;
+    top: 0;
+}
+
+.headericon {
+    width: 30px;
+    height: 30px;
+}
+
+.headername {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    letter-spacing: -0.075em;
+}
+
+.mainpage {
+    margin-top: 0px;
+    display: flex;
+    border: 1px solid #F5F5F5;
+    padding-bottom: 45px;
+}
+
+.imageUrl {
+    width: 125px;
+    height: 168px;
+    margin-left: 40px;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+.toplinediv {
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.locicon {
+    width: 7.5px;
+    height: 10px;
+    margin-right: 3px;
+}
+
+.location {
+    font-size: 10.25px;
+    font-weight: 400;
+    color: #2B283A;
+    margin-right: 10px;
+    letter-spacing: 0.17em;
+}
+
+.googleMapsUrl {
+    font-size: 10.25px;
+    font-weight: 400;
+    color: #918E9B;
+}
+
+.title {
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #2B283A;
+    margin-top: 0px;
+}
+
+.dates {
+    margin-left: 20px;
+    font-size: 10.25px;
+    font-weight: 700;
+    color: #2B283A;
+}
+
+.description {
+    font-size: 10.25px;
+    margin-left: 20px;
+    font-weight: 400;
+    color: #2B283A;
+    width: 326px;
+}
+

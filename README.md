@@ -5,3 +5,5 @@
 [Digital Business Card](https://superlative-frangollo-19d152.netlify.app/)
 
 [Airbnb Experiences Page](https://grand-kulfi-4b34ab.netlify.app/)
+
+[Travel Journal](https://shiny-halva-153339.netlify.app/)
